@@ -75,22 +75,20 @@
 
 
 
-# Data Sources
+# Data Collection
 
-##### Data Collection
+##### * Data stored in 12 CSV files, one by month.
 
-###### Data stored in 12 CSV files, one by month.
-
-
-###### Data Quality
-###### * Current, unbiased, and credible.
-###### * Collected directly by Cyclistic.
-###### * Licensed and provided by Motivate International Inc*.
+##### Data Quality
+##### * Current, unbiased, and credible.
+##### * Collected directly by Cyclistic.
+##### * Licensed and provided by Motivate International Inc*.
 
 
-###### Data Processing
-###### * Over 1 GB of data and +5.7M rows.
-###### * Initial inspection in Google Sheets, curating and analysis in RStudio.
+##### Data Processing
+##### * Over 1 GB of data and +5.7M rows.
+##### * Initial inspection in Google Sheets, curating and analysis in RStudio.
+
 
 
 
@@ -100,12 +98,13 @@
 # Data Preparation and cleaning 
 ##### See code.
 
-
-
 # Conclusions & Actions
 
 
-#### 1. Special Packages
+
+
+
+### 1. Special Packages
 
 ##### * The location approach provided data about areas of high concentration of member usage, such as the Chicago Loop or the University of Chicago.
 ##### * Member type habits reflect use for commuting.
@@ -119,7 +118,9 @@
 
 
 
-#### 2. Seasonal Promotions
+
+
+### 2. Seasonal Promotions
 
 ##### * Data shows that peak use is in summer months after steep drop in winter. 
 ##### * Casual users and member activity show significant increase starting in March. 
@@ -131,7 +132,9 @@
 
 
 
-#### 3. Entertainment Prmotions and discounts
+
+
+### 3. Entertainment Prmotions and discounts
 
 ##### * Big trends in members’ use in for commuting to and especially from work. 
 ##### * Casual users are most active on weekends and around Streeterville, Gold Coast and Lakeshore East.
@@ -144,7 +147,9 @@
 
 
 
-#### 4. Healthy, Eco-friendly Habits
+
+
+### 4. Healthy, Eco-friendly Habits
 
 ##### * Opportunity to offer an eco-friendly and healthy alternatives to commuters.
 ##### * Members are already using bikes for commute.
@@ -160,7 +165,9 @@
 
 
 
-#### 5. Affiliate Campaigns
+
+
+### 5. Affiliate Campaigns
 
 ##### * Take advantage of concentrated areas for casual use activity to market. 
 ##### * Casual user data shows very concentrated use around the coast in areas such as Streeterville, Gold Coast and Lakeshore East. 
@@ -172,7 +179,9 @@
 
 
 
-#### 6. Weekend Discounts
+
+
+### 6. Weekend Discounts
 
 ##### * Members generally use Cyclist service less on weekends and use electric bikes less. 
 ##### * Casual users favor electric bikes, making up more than half the annual rides.
