@@ -1,9 +1,22 @@
 # Cyclistic
 ## Biking Your Way Around Chicage
 
-## Table of contents
 
-#### * Background
+
+# Background
+
+##### * In 2016, The Cyclistic company launched their bike share service in Chicago, Illinois. 
+
+##### * The fleet consists of 5,824 bicycles and 692 stations. 
+
+##### * Customers who purchase single-ride or full-day passes are referred to as casual riders. 
+
+##### * Customers who purchase annual memberships are Cyclistic members. 
+
+
+
+
+## Table of contents
 
 #### * Objective
 
@@ -18,18 +31,6 @@
 #### * Conclusions and Actions
 
 
-
-
-
-# Background
-
-##### * In 2016, The Cyclistic company launched their bike share service in Chicago, Illinois. 
-
-##### * The fleet consists of 5,824 bicycles and 692 stations. 
-
-##### * Customers who purchase single-ride or full-day passes are referred to as casual riders. 
-
-##### * Customers who purchase annual memberships are Cyclistic members. 
 
 
 
